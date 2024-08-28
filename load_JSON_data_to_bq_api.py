@@ -1,3 +1,4 @@
+#BASIC OPERATION - BATCH LOADING JSON DATA FROM GSC TO BQ IN EXISTING DATASET AFTER CREATING A NEW TABLE HERE
 from google.cloud import bigquery
 
 client = bigquery.Client()
