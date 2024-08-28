@@ -1,3 +1,4 @@
+# CREATING AN EXTERNAL TABLE IN BQ AND QUERYING ; DATA IS STORED IN GCS BUCKET
 from google.cloud import bigquery
 
 client = bigquery.Client()
