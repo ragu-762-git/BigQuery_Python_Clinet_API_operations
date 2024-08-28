@@ -1,3 +1,4 @@
+#TRANSFERING (COPYING) DATASET (INCLUDING TABLES) FROM ONE PROJECT TO OTHER
 from google.cloud import bigquery_datatransfer
 
 #run this in the cloud shell before executing this script to provide authentication
