@@ -1,3 +1,4 @@
+#BASIC OPERATIONS - CREATE DATASET, TABLE AND BATCH LOAD - CSV DATA FROM GCS INTO BQ
 from google.cloud import bigquery
 
 #construct a bigquery client
